@@ -1,6 +1,6 @@
 # [GitHub Stats Visualization](https://github.com/BALADURGAG24/github-stats)
 
-[![Generate Stats Images](https://github.com/BALADURGAG24/github-stats/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/BALADURGAG24/github-stats/actions/workflows/main.yml)
+[![Generate Stats Images](https://github.com/BALADURGAG24/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/BALADURGAG24/github-stats/actions/workflows/main.yml)
 
 <a href="https://github.com/BALADURGAG24/github-stats">
 <img src="https://raw.githubusercontent.com/BALADURGAG24/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
