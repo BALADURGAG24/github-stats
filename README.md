@@ -17,7 +17,7 @@ Generated images automatically switch between GitHub light theme and GitHub
 dark theme.
 
 ## Background
-
+ 
 When someone views a profile on GitHub, it is often because they are curious
 about a user's open source projects and contributions. Unfortunately, that
 user's stars, forks, and pinned repositories do not necessarily reflect the
