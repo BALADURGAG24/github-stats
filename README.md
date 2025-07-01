@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/BALADURGAG24/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
-Generate visualizations of GitHub user and repository statistics with GitHub
+Generate visualizations of GitHub user and repository statistics with GitHub 
 Actions. Visualizations can include data for both private repositories, and for
 repositories you have contributed to, but do not own.
 
